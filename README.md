@@ -21,7 +21,8 @@ section.grid-container img {
 </style>
 
 <section class="grid-container">
-![puzzle2_M](https://github.com/user-attachments/assets/982d3d32-572f-4cea-90ea-8592abe33a14)
+
+  ![puzzle2_M](https://github.com/user-attachments/assets/982d3d32-572f-4cea-90ea-8592abe33a14)
 ![puzzle2_E](https://github.com/user-attachments/assets/00e75595-29ca-48bb-84d3-c55d00c1ffd3)
 ![puzzle2_G](https://github.com/user-attachments/assets/cba7eafc-ea95-40c9-83c8-d959975cff72)
 ![puzzle2_I](https://github.com/user-attachments/assets/d8782b1d-60f6-4194-8506-370940ba3261)
