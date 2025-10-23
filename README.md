@@ -22,7 +22,7 @@ section.grid-container img {
 
 <section class="grid-container">
    <div class="grid-item">
-    <img src="image2.jpg" alt="puzzle">
+    <img src="image 2.jpg" alt="puzzle">
 </div>
 <div class="grid-item">
     <img src="" alt="puzzle">
